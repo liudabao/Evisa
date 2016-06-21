@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="app_name">EVisa1</string>
+
+    <string name="guide1">生活</string>
+    <string name="guide2">不仅眼前的苟且</string>
+    <string name="guide3">还有诗和远方</string>
+
+    <string name="guide4">来一场说走就走的旅行</string>
+    
+    <string name="enter">开始</string>
+    <string name="hall">大厅</string>
+    
+    <string name="my">我的</string>    
+    <string name="my_visa">我的签证</string>
+    <string name="my_name">立即登录</string>
+    <string name="my_safe">安全</string>
+    <string name="my_set">设置</string>
+    
+    <string name="login">登录</string>
+    <string name="name_hint">手机号</string>
+    <string name="psd_hint">密码</string>
+    <string name="fast_register">快速注册</string>
+    <string name="forget_psd">忘记密码?</string>
+    <string name="find_psd">找回密码</string>
+    <string name="login_way">第三方登录</string>
+    <string name="login_wechat">微信登录</string>
+    <string name="login_qq">QQ登录</string>
+    <string name="login_weibo">微博登录</string>
+    <string name="register">注册</string>
+    <string name="register_agreement">同意</string>
+    <string name="register_agreement_content">XX协议</string>
+    <string name="find">确认</string>
+    <string name="find_hint">请输入邮箱</string>
+    
+    <string name="country_title">柬埔寨</string>
+    <string name="visa">签证</string>
+    <string name="visa_tip">签证须知</string>
+    <string name="visa_apply">申请签证</string>
+    <string name="internet_tip">网络连接失败，请检查网络后刷新</string>
+
+</resources>

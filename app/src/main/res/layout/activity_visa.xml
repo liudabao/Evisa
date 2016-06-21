@@ -1,0 +1,38 @@
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+   
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/visa_top"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_height"
+        android:background="@drawable/bg_retangle"
+        android:orientation="horizontal">
+        <ImageButton 
+           android:id="@+id/iv_visa_back"
+           android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:layout_marginLeft="@dimen/margin"
+           android:layout_alignParentLeft="true"
+           android:layout_centerInParent="true"
+           android:background="@drawable/bg_back_selector"/>
+        <TextView
+             android:id="@+id/tv_visa_top"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_centerInParent="true"
+             android:textColor="@color/white"
+             android:textSize="@dimen/text_big"
+             android:text="@string/visa" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_visa_web"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        />
+
+</LinearLayout>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/iv_enter"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:text="@string/guide4"
+        android:id="@+id/textView4"
+        android:textColor="@color/black"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="141dp" />
+
+    <Button
+        android:id="@+id/bt_enter"
+        android:layout_width="96dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="78dp"
+        android:text="@string/enter"
+        android:layout_above="@+id/linearLayout"
+        android:layout_centerHorizontal="true"
+        android:textSize="22sp"
+        android:background="@drawable/bg_btn_enter_selector"/>
+     <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:padding="12dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+         android:id="@+id/linearLayout">
+        <View 
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:layout_margin="2dp"
+            android:background="@drawable/bg_view_blured"/>
+        <View 
+            android:layout_width="18dp"
+            android:layout_height="18dp"
+            android:layout_margin="2dp"
+            android:background="@drawable/bg_view_focused"/>
+     </LinearLayout>
+
+</RelativeLayout>

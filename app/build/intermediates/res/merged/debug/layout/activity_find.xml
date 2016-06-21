@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_grey"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:id="@+id/find_top"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_height"
+        android:background="@drawable/bg_retangle"
+        android:layout_marginBottom="@dimen/margin"
+        android:orientation="horizontal">
+        <ImageButton 
+           android:id="@+id/iv_find_back"
+           android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:layout_marginLeft="@dimen/margin"
+           android:layout_alignParentLeft="true"
+           android:layout_centerInParent="true"
+           android:background="@drawable/bg_back_selector"/>
+        <TextView
+             android:id="@+id/text_register_top"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_centerInParent="true"
+             android:textColor="@color/white"
+             android:textSize="@dimen/text_big"
+             android:text="@string/find_psd" />
+    </RelativeLayout>
+    
+    <EditText 
+        android:id="@+id/et_find_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin"
+        android:layout_marginLeft="@dimen/margin"
+        android:layout_marginRight="@dimen/margin"
+        android:background="@drawable/bg_input_normal"
+        android:hint="@string/find_hint"/>
+    <Button 
+        android:id="@+id/register_login"
+        android:layout_height="@dimen/button_height"
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/margin"
+        android:layout_marginLeft="@dimen/margin"
+        android:layout_marginRight="@dimen/margin"
+        android:background="@drawable/bg_btn_login_selector"
+        android:text="确认"
+        android:textColor="@color/white"/>
+
+</LinearLayout>

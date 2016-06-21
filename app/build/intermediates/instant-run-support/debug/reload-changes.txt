@@ -1,0 +1,2 @@
+CHANGED,D:\android\EVisa\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\android\EVisa\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\lium\evisa\activity\CountryActivity$override.class

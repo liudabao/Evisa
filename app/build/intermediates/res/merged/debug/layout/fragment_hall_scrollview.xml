@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/light_grey"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/hall_top"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_height"
+        android:background="@color/black"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/tv_hall_top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_big"
+            android:text="@string/hall" />
+    </LinearLayout>
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/srl_home"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <com.lium.evisa.ui.MyScrollview
+        android:id="@+id/sv_home"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+    <com.lium.evisa.ui.ScrollRecyclerView
+        android:id="@+id/srv_country"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="horizontal"/>
+   </com.lium.evisa.ui.MyScrollview>
+   </android.support.v4.widget.SwipeRefreshLayout>
+</LinearLayout>

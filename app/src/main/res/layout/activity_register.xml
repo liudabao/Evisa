@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_grey"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:id="@+id/register_top"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_height"
+        android:background="@drawable/bg_retangle"
+        android:orientation="horizontal">
+        <ImageButton 
+           android:id="@+id/iv_register_back"
+           android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:layout_marginLeft="@dimen/margin"
+           android:layout_alignParentLeft="true"
+           android:layout_centerInParent="true"
+           android:background="@drawable/bg_back_selector"/>
+        <TextView
+             android:id="@+id/text_register_top"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_centerInParent="true"
+             android:textColor="@color/white"
+             android:textSize="@dimen/text_big"
+             android:text="@string/register" />
+    </RelativeLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin"
+        android:layout_marginRight="@dimen/margin"
+        android:layout_marginTop="@dimen/margin"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:padding="@dimen/padding" >
+
+        <ImageView 
+           android:id="@+id/iv_register_name"
+           android:layout_height="@dimen/icon_height"
+           android:layout_width="@dimen/icon_width"
+           android:layout_gravity="center"
+           android:background="@drawable/icon_main_category_selected"/>
+        
+        <EditText 
+           android:id="@+id/et_register_name"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="@dimen/margin"
+           android:background="@drawable/bg_input_normal_no_stroke"
+           android:hint="@string/name_hint"/>
+    </LinearLayout>
+    <View  
+         android:layout_width="match_parent"
+         android:layout_height="@dimen/line_height"
+         android:layout_marginLeft="@dimen/margin"
+         android:layout_marginRight="@dimen/margin"
+         android:background="@drawable/bg_divider"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin"
+        android:layout_marginRight="@dimen/margin"
+        android:padding="@dimen/padding"
+        android:background="@color/white"
+        android:orientation="horizontal">
+        <ImageView 
+           android:id="@+id/iv_register_psd"
+           android:layout_height="@dimen/icon_height"
+           android:layout_width="@dimen/icon_width"
+           android:layout_gravity="center"
+           android:background="@drawable/pic_iconlock"/>
+     <EditText 
+           android:id="@+id/et_register_psd"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="@dimen/margin"
+           android:background="@drawable/bg_input_normal_no_stroke"
+           android:hint="@string/psd_hint"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin"
+        android:layout_marginRight="@dimen/margin"
+        android:layout_marginTop="@dimen/margin"
+        android:orientation="horizontal">
+      <CheckBox
+            android:id="@+id/cb_register"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="@string/register_agreement" />
+      <TextView
+            android:id="@+id/tv_register"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"   
+            android:layout_marginLeft="@dimen/margin_top"
+            android:layout_marginRight="@dimen/margin_top" 
+            android:textSize="@dimen/text_middle"
+            android:textColor="@color/skyblue"
+            android:text="签证通用户协议" />
+     </LinearLayout>
+    
+    <Button 
+        android:id="@+id/register_login"
+        android:layout_height="@dimen/button_height"
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/margin"
+        android:layout_marginLeft="@dimen/margin"
+        android:layout_marginRight="@dimen/margin"
+        android:background="@drawable/bg_btn_login_selector"
+        android:text="@string/register"
+        android:textColor="@color/white"/>
+
+</LinearLayout>
