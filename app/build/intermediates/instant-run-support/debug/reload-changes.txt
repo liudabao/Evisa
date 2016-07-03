@@ -1,2 +1,4 @@
+CHANGED,D:\android\EVisa\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\lium\evisa\activity\LoginActivity$TimeCount$override.class
 CHANGED,D:\android\EVisa\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
-CHANGED,D:\android\EVisa\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\lium\evisa\activity\CountryActivity$override.class
+CHANGED,D:\android\EVisa\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\lium\evisa\activity\LoginActivity$override.class
+CHANGED,D:\android\EVisa\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\lium\evisa\activity\LoginActivity$3$override.class

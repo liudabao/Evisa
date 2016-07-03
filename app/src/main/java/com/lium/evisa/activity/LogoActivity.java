@@ -13,9 +13,11 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.os.CountDownTimer;
 import android.os.Handler;
 import android.view.View;
 import android.view.Window;
+import android.widget.Button;
 import android.widget.ImageView;
 import com.igexin.sdk.PushManager;
 /**
@@ -30,7 +32,9 @@ public class LogoActivity extends Activity{
 	private ImageView iv_logo;
 	private DisplayImageApi displayImageApi;
 	private SharedPreferences preferences;
+	private Button bt_ad;
 	private int times;
+	//private TimeCount timeCount;
 	@Override
 	public void onCreate(Bundle savedInstanceState){
 		super.onCreate(savedInstanceState);
@@ -43,7 +47,9 @@ public class LogoActivity extends Activity{
 
 	private void initView(){
 		iv_ad=(ImageView)findViewById(R.id.iv_ad);
+		//bt_ad=(Button)findViewById(R.id.bt_ad);
 		//iv_logo=(ImageView)findViewById(R.id.iv_logo);
+		//timeCount = new TimeCount(GlobalValue.DELAYTIME, 1000);
 
 
 		preferences=getSharedPreferences("visit", MODE_PRIVATE);
@@ -61,11 +67,7 @@ public class LogoActivity extends Activity{
 				// TODO Auto-generated method stub
 
 				if(times==0){
-					Intent intent=new Intent(LogoActivity.this,GuideActivity.class);
-					startActivity(intent);
-					SharedPreferences.Editor editor=getSharedPreferences("visit", MODE_PRIVATE).edit();
-					editor.putInt("count", 1);
-					editor.commit();
+					enter();
 				}
 				else{
 					Intent intent=new Intent(LogoActivity.this,HomeActivity.class);
@@ -74,7 +76,8 @@ public class LogoActivity extends Activity{
 				finish();
 			}
 		}, GlobalValue.DELAYTIME);
-		
+
+
 	}
 
 	private void onScaleWidth(final View view) {
@@ -85,6 +88,13 @@ public class LogoActivity extends Activity{
 		animator.setTarget(view);
 		animator.start();
 	}
-	   
+	private void  enter(){
+		Intent intent=new Intent(LogoActivity.this,GuideActivity.class);
+		startActivity(intent);
+		SharedPreferences.Editor editor=getSharedPreferences("visit", MODE_PRIVATE).edit();
+		editor.putInt("count", 1);
+		editor.commit();
+	}
+
 		
 }

@@ -1,6 +1,10 @@
 package com.lium.evisa.global;
 
 public class GlobalValue {
+
+	public final static String DB="PERSON";
+
+	public final static String TABLE="LOGIN";
 	
 	public final static String ADURL="http://101.200.164.87:8080/visa/image/ad.jpg";
 	

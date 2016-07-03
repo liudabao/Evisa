@@ -4,6 +4,10 @@
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_popup_exit.xml"
     },
     {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\anim\\load_anim.xml",
+        "source": "D:\\android\\EVisa\\app\\src\\main\\res\\anim\\load_anim.xml"
+    },
+    {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },

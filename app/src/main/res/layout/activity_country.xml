@@ -138,7 +138,7 @@
             android:layout_marginRight="@dimen/left_right_margin"
             android:lineSpacingExtra="3dp"
             android:lineSpacingMultiplier="1.5"
-            android:padding="4dp"/>
+            android:padding="8dp"/>
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

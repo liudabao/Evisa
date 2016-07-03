@@ -132,4 +132,15 @@
             android:layout_marginLeft="16dp"
             android:text="关于" />
     </LinearLayout>
+
+    <Button
+        android:id="@+id/set_logout"
+        android:layout_height="@dimen/button_height"
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/margin"
+        android:layout_marginLeft="@dimen/margin"
+        android:layout_marginRight="@dimen/margin"
+        android:background="@drawable/bg_btn_login_selector"
+        android:text="退出"
+        android:textColor="@color/white"/>
 </LinearLayout>

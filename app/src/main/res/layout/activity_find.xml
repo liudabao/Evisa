@@ -3,7 +3,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/light_grey"
-    android:orientation="vertical" >
+    android:orientation="vertical"
+    android:weightSum="1">
     <RelativeLayout
         android:id="@+id/find_top"
         android:layout_width="match_parent"
@@ -48,5 +49,4 @@
         android:background="@drawable/bg_btn_login_selector"
         android:text="确认"
         android:textColor="@color/white"/>
-
 </LinearLayout>

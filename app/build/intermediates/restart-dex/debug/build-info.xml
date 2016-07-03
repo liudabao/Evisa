@@ -4,49 +4,35 @@
     api-level="23"
     density="xxhdpi"
     format="7"
-    timestamp="2114606259085" >
+    timestamp="10934792029104"
+    token="-857443201165102691" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="279" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="17" />
     <task
         name="verifier"
-        duration="0" />
+        duration="3" />
 
     <artifact
-        location="D:\android\EVisa\app\build\intermediates\res\resources-debug.ap_"
-        type="RESOURCES" />
+        location="D:\android\EVisa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
 
-    <build timestamp="483840724367" >
+    <build timestamp="10840649726983" >
         <artifact
             location="D:\android\EVisa\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="774699886738" >
-        <artifact
-            location="D:\android\EVisa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="1175925744689" >
-        <artifact
-            location="D:\android\EVisa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="1987710196486" >
+    <build timestamp="10934792029104" >
         <artifact
             location="D:\android\EVisa\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
             type="DEX" />
-    </build>
-    <build timestamp="2114606259085" >
-        <artifact
-            location="D:\android\EVisa\app\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>

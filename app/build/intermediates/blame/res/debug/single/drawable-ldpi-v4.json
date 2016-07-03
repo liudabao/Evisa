@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\user_icon.jpg",
+        "source": "D:\\android\\EVisa\\app\\src\\main\\res\\drawable-ldpi\\user_icon.jpg"
+    },
+    {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
         "source": "D:\\android\\EVisa\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
     }

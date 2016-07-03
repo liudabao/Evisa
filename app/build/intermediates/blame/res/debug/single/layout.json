@@ -1,5 +1,21 @@
 [
     {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\increment_popup_dialog.xml",
+        "source": "D:\\android\\EVisa\\app\\src\\main\\res\\layout\\increment_popup_dialog.xml"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hall_scrollview.xml",
+        "source": "D:\\android\\EVisa\\app\\src\\main\\res\\layout\\fragment_hall_scrollview.xml"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_layout.xml",
+        "source": "D:\\android\\EVisa\\app\\src\\main\\res\\layout\\dialog_layout.xml"
+    },
+    {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_select_dialog_material.xml"
     },
@@ -8,20 +24,16 @@
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\increment_popup_dialog.xml",
-        "source": "D:\\android\\EVisa\\app\\src\\main\\res\\layout\\increment_popup_dialog.xml"
-    },
-    {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logo.xml",
-        "source": "D:\\android\\EVisa\\app\\src\\main\\res\\layout\\activity_logo.xml"
-    },
-    {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logo.xml",
+        "source": "D:\\android\\EVisa\\app\\src\\main\\res\\layout\\activity_logo.xml"
     },
     {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_layout_banner.xml",
@@ -34,14 +46,6 @@
     {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_enter.xml",
         "source": "D:\\android\\EVisa\\app\\src\\main\\res\\layout\\fragment_enter.xml"
-    },
-    {
-        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hall_scrollview.xml",
-        "source": "D:\\android\\EVisa\\app\\src\\main\\res\\layout\\fragment_hall_scrollview.xml"
     },
     {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_recyclerview_header.xml",
@@ -60,12 +64,12 @@
         "source": "D:\\android\\EVisa\\app\\src\\main\\res\\layout\\activity_find.xml"
     },
     {
-        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
         "source": "D:\\android\\EVisa\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_hall.xml",
@@ -112,12 +116,12 @@
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_country.xml",
-        "source": "D:\\android\\EVisa\\app\\src\\main\\res\\layout\\activity_country.xml"
-    },
-    {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_country.xml",
+        "source": "D:\\android\\EVisa\\app\\src\\main\\res\\layout\\activity_country.xml"
     },
     {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_recyclerview_item.xml",
@@ -156,16 +160,16 @@
         "source": "D:\\android\\EVisa\\app\\src\\main\\res\\layout\\activity_set.xml"
     },
     {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
@@ -228,12 +232,12 @@
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
-    },
-    {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_country2.xml",
         "source": "D:\\android\\EVisa\\app\\src\\main\\res\\layout\\activity_country2.xml"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",

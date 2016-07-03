@@ -51,7 +51,7 @@
            android:id="@+id/et_login_name"
            android:layout_width="match_parent"
            android:layout_height="wrap_content"
-           android:layout_marginLeft="@dimen/margin"
+           android:layout_marginLeft="8dp"
            android:background="@drawable/bg_input_normal_no_stroke"
            android:hint="@string/name_hint"/>
     </LinearLayout>
@@ -64,8 +64,8 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="@dimen/margin"
-        android:layout_marginRight="@dimen/margin"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
         android:padding="@dimen/padding"
         android:background="@color/white"
         android:orientation="horizontal">
@@ -78,11 +78,19 @@
         
         <EditText 
            android:id="@+id/et_login_psd"
-           android:layout_width="match_parent"
+           android:layout_width="0dp"
+           android:layout_weight="3"
            android:layout_height="wrap_content"
-           android:layout_marginLeft="@dimen/margin"
+           android:layout_marginLeft="8dp"
            android:background="@drawable/bg_input_normal_no_stroke"
-           android:hint="@string/psd_hint"/>
+           android:hint="@string/psd_hint" />
+        <Button
+            android:id="@+id/login_code"
+            android:layout_width="0dp"
+            android:layout_weight="3"
+            android:layout_height="match_parent"
+            android:background="@drawable/bg_bt_code"
+            android:text="@string/code_btn"/>
     </LinearLayout>
     <Button 
         android:id="@+id/bt_login"
@@ -109,6 +117,7 @@
            android:layout_gravity="left|center_horizontal"
            android:textColor="@color/skyblue"
            android:textSize="@dimen/text_middle"
+            android:visibility="invisible"
            android:text="@string/fast_register"/>
         <ImageView
             android:id="@+id/iv_fast_register"
@@ -116,13 +125,15 @@
             android:layout_height="@dimen/icon_height"
             android:layout_centerHorizontal="true"
             android:layout_toRightOf="@+id/tv_fast_register"
+            android:visibility="invisible"
             android:background="@drawable/open_arrow" />
         <TextView
             android:id="@+id/tv_forget_psd"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentRight="true"
-            android:text="@string/forget_psd" 
+            android:text="@string/forget_psd"
+            android:visibility="invisible"
             android:textColor="@color/skyblue"
             android:textSize="@dimen/text_middle" />       
     </RelativeLayout>

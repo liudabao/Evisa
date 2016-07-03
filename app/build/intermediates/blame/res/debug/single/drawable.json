@@ -4,12 +4,8 @@
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_country_group_scroll_down.xml",
+        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.0.2\\res\\drawable\\smssdk_country_group_scroll_down.xml"
     },
     {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
@@ -20,12 +16,32 @@
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.xml",
+        "source": "D:\\android\\EVisa\\app\\src\\main\\res\\drawable\\loading.xml"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_dialog_btn_back.xml",
+        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.0.2\\res\\drawable\\smssdk_dialog_btn_back.xml"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_edittext_bg_selector.xml",
+        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.0.2\\res\\drawable\\smssdk_edittext_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_short_normal.png",
-        "source": "D:\\android\\EVisa\\app\\src\\main\\res\\drawable\\btn_blue_short_normal.png"
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_corners_bg_pre.xml",
+        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.0.2\\res\\drawable\\smssdk_corners_bg_pre.xml"
     },
     {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
@@ -36,12 +52,32 @@
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_retangle.xml",
-        "source": "D:\\android\\EVisa\\app\\src\\main\\res\\drawable\\bg_retangle.xml"
-    },
-    {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_bt_code_clicked.xml",
+        "source": "D:\\android\\EVisa\\app\\src\\main\\res\\drawable\\bg_bt_code_clicked.xml"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_short_normal.png",
+        "source": "D:\\android\\EVisa\\app\\src\\main\\res\\drawable\\btn_blue_short_normal.png"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_btn_disenable.xml",
+        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.0.2\\res\\drawable\\smssdk_btn_disenable.xml"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_bt_code.xml",
+        "source": "D:\\android\\EVisa\\app\\src\\main\\res\\drawable\\bg_bt_code.xml"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_country_bg_selector.xml",
+        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.0.2\\res\\drawable\\smssdk_country_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_retangle.xml",
+        "source": "D:\\android\\EVisa\\app\\src\\main\\res\\drawable\\bg_retangle.xml"
     },
     {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
@@ -72,6 +108,10 @@
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_corners_bg.xml",
+        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.0.2\\res\\drawable\\smssdk_corners_bg.xml"
+    },
+    {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\set.png",
         "source": "D:\\android\\EVisa\\app\\src\\main\\res\\drawable\\set.png"
     },
@@ -100,6 +140,14 @@
         "source": "D:\\android\\EVisa\\app\\src\\main\\res\\drawable\\pic_iconlock.png"
     },
     {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_corners_bg_nor.xml",
+        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.0.2\\res\\drawable\\smssdk_corners_bg_nor.xml"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_btn_enable.xml",
+        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.0.2\\res\\drawable\\smssdk_btn_enable.xml"
+    },
+    {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
@@ -114,6 +162,10 @@
     {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smssdk_country_group_scroll_up.xml",
+        "source": "D:\\android\\EVisa\\app\\build\\intermediates\\exploded-aar\\SMSSDKGUI-2.0.2\\res\\drawable\\smssdk_country_group_scroll_up.xml"
     },
     {
         "merged": "D:\\android\\EVisa\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",

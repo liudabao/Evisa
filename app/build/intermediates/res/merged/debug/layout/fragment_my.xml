@@ -10,19 +10,21 @@
         android:orientation="vertical">
 
      <LinearLayout
+         android:id="@+id/ll_login"
          android:layout_width="match_parent"
          android:layout_height="144dp"
          android:layout_marginBottom="@dimen/activity_vertical_margin"
          android:background="@drawable/bg_retangle"
          android:orientation="vertical"
          android:clickable="true">
-         <ImageView
+         <com.lium.evisa.ui.CircleView
              android:id="@+id/iv_login"
-             android:layout_width="wrap_content"
-             android:layout_height="wrap_content"
+             android:layout_width="72dp"
+             android:layout_height="72dp"
              android:layout_marginTop="@dimen/margin"
              android:layout_gravity="center"
-             android:background="@drawable/bg_bt_login" />
+             android:background="@drawable/bg_image_login"/>
+
          <TextView
              android:id="@+id/tv_login"
              android:layout_width="wrap_content"
@@ -208,5 +210,6 @@
              android:text="@string/my_set" />
          
      </LinearLayout>
+
     </LinearLayout>
 </FrameLayout>
